@@ -74,8 +74,8 @@ class _MyAppState extends State<MyApp> {
               Padding(
                 padding: const EdgeInsets.only(top: 70),
                 child: Container(
-                  width: 280,
-                  height: 260,
+                  width: 350,
+                  height: 360,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(16),
                     border: Border.all(color: const Color(0xFFE0E0E0)),
